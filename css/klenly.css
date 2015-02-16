@@ -1,3 +1,4 @@
+/*Slide 1*/
 .logo {
 	position: relative;
 	top: -20px;
@@ -6,11 +7,58 @@
 	position: relative;
 	top: -30px;
 }
+/*Slide 2*/
+.logo-iso {
+	display: inline-block;
+	position: relative;
+	top: 26px;
+	margin-right: 10px;
+	width: 240px;
+}
+.logo-iso-padding {
+	display: inline-block;
+	position: relative;
+	top: 26px;
+	margin: 0 10px;
+	width: 240px;
+}
 
 /*Text classes*/
+.white {
+	color: #ffffff;
+}
 .pink {
 	color: #EF536D;
 }
-.green {
+.mint {
 	color: #00AFBC;
+}
+.lt-mint {
+	color: #7FDBE2;
+}
+.lt-grey {
+	color: #F7F7F7;
+}
+.shade1 {
+	color: #DADADA;
+}
+.shade2 {
+	color: #BDBDBD;
+}
+.dark {
+	color: #ccc;
+}
+em {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+/*Lists*/
+.klenly-ul li {
+	margin: 10px 0;
+}
+
+/*icons*/
+.klenly-ico {
+	width: 100px;
 }

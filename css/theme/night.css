@@ -32,7 +32,6 @@ body {
  *********************************************/
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
   margin: 0 0 20px 0;
-  color: #eee;
   font-family: 'Montserrat', Impact, sans-serif;
   font-weight: normal;
   line-height: 1.2;
@@ -214,16 +213,16 @@ body {
   border-top-color: #7FDBE2; }
 
 .reveal .controls div.navigate-left.enabled:hover {
-  border-right-color: #00AFBC; }
+  border-right-color: #00919B; }
 
 .reveal .controls div.navigate-right.enabled:hover {
-  border-left-color: #00AFBC; }
+  border-left-color: #00919B; }
 
 .reveal .controls div.navigate-up.enabled:hover {
-  border-bottom-color: #00AFBC; }
+  border-bottom-color: #00919B; }
 
 .reveal .controls div.navigate-down.enabled:hover {
-  border-top-color: #00AFBC; }
+  border-top-color: #00919B; }
 
 /*********************************************
  * PROGRESS BAR

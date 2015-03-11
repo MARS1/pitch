@@ -62,3 +62,10 @@ em {
 .klenly-ico {
 	width: 100px;
 }
+/*images*/
+.sr {
+	border: none;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
